@@ -210,7 +210,7 @@ for idx, file in enumerate(os.listdir(img_path)):
     
     ### rotate
     if rotate:
-        img_rotate(img, rotate_angle)
+        img = img_rotate(img, rotate_angle)
         img_name = img_name+'_rotate%d'%rotate_angle
     
     
