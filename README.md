@@ -1,2 +1,2 @@
 # image-preprocessing
-use python and opencv to preprocess and save the image
+Use python and opencv to do the image preprocessing for deep learning model training
